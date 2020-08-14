@@ -28,6 +28,7 @@ Thumbs.db
 /flutter/
 /ios_tools/
 /out/
+/v8/
 
 # This is where the gclient hook downloads the Fuchsia SDK and toolchain.
 /fuchsia/
